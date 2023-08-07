@@ -18,13 +18,19 @@ This repository provides a step-by-step guide on how to integrate `pyxll`, `rdki
 ## Requirements:
 
 Python >=3.10
+
 PyXLL >= 5.1.0
+
 Jupyter >= 1.0.0
+
 rdkit >= 2022.2
+
 notebook >= 6.0.0
+
 PySide2, or PySide6 for Python >= 3.10
 
 Optional
+
 jupyterlab >= 4.0.0
 
 ## Setting Up the Environment
