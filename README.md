@@ -22,6 +22,6 @@ If you haven't already, download and install [Anaconda](https://www.anaconda.com
 Open the Anaconda prompt or terminal and run the following command:
 
 ```bash
-conda create --name rdkit_env python=3.8
+conda create --name rdkit_env python=3.10
 
 or alternatively you can also create an environment using rdkit_env.yml file
