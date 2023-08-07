@@ -10,6 +10,7 @@ This repository provides a step-by-step guide on how to integrate `pyxll`, `rdki
 
 - [Requirements](#Requirements)
 - [Setting Up the Environment](#setting-up-the-environment)
+- [Installing from YML file](#setting-up-the-environment)
 - [Creating the RDKit Functions File](#creating-the-rdkit-functions-file)
 - [Examples](#examples)
 - [Contributing](#contributing)
@@ -48,8 +49,25 @@ conda create --name rdkit_env python=3.10
 
 or alternatively you can also create an environment using rdkit_env.yml file
 
+### Step 1:
 To set up ‘PyXLL Excel add-in (pip install pyxll) and then use the PyXLL command line tool to install the Excel add-in: 
 
 > pip install pyxll
 
 > pyxll install 
+
+Follow the instructions to complete the installation process.
+
+When the installer asks “Have you already downloaded the PyXLL add-in?”, enter “n” and the installer will download everything you need automatically.
+
+If you prefer, you can download the PyXLL add-in from the [download page](https://www.pyxll.com/download.html), but please be sure to select the correct Python and Excel options to get the right version of the PyXLL add-in.
+
+To activate the free 30 day trial when the installer asks *“Do you have a PyXLL license key?”* enter “n”. This will install PyXLL without a license key, activating the 30 day free trial automatically.
+
+Step 2:
+Once you have the PyXLL Excel add-in installed the next step is to install the pyxll-jupyter package. This package provides the glue between PyXLL and Jupyter so that we can use our Jupyter notebooks inside of Excel.
+
+The pyxll-jupyter package is installed using pip:
+
+> pip install pyxll-jupyter
+Once both the PyXLL Excel add-in and the PyXLL-Jupyter package are installed start Excel and you will see a new “Jupyter” button in the PyXLL tab.
