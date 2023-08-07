@@ -3,16 +3,29 @@
 
 This repository provides a step-by-step guide on how to integrate `pyxll`, `rdkit`, and `jupyter-pyxll` for a seamless Python and Excel experience, especially for cheminformatics tasks.
 
-# About Pyxll:
+## About Pyxll:
 ‘PyXLL add-in’ lets you integrate Python into Excel and use Python instead of VBA. Please note that, PyXLL is commercial and you can still access PyXLL for 30 days. Refer [PyXLL website](https://www.pyxll.com/) for more information.
 
 ## Table of Contents
 
+- [Requirements](#Requirements)
 - [Setting Up the Environment](#setting-up-the-environment)
 - [Creating the RDKit Functions File](#creating-the-rdkit-functions-file)
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Requirements:
+
+Python >=3.10
+PyXLL >= 5.1.0
+Jupyter >= 1.0.0
+rdkit >= 2022.2
+notebook >= 6.0.0
+PySide2, or PySide6 for Python >= 3.10
+
+Optional
+jupyterlab >= 4.0.0
 
 ## Setting Up the Environment
 
