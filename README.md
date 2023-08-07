@@ -4,7 +4,7 @@
 This repository provides a step-by-step guide on how to integrate `pyxll`, `rdkit`, and `jupyter-pyxll` for a seamless Python and Excel experience, especially for cheminformatics tasks.
 
 # About Pyxll:
-‘PyXLL add-in’ lets you integrate Python into Excel and use Python instead of VBA. PyXLL is commercial and you will get 30 days free access. Refer [PyXLL website](https://www.pyxll.com/) for more information.
+‘PyXLL add-in’ lets you integrate Python into Excel and use Python instead of VBA. Please note that, PyXLL is commercial and you can still access PyXLL for 30 days. Refer [PyXLL website](https://www.pyxll.com/) for more information.
 
 ## Table of Contents
 
