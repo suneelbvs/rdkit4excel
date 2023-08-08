@@ -16,7 +16,7 @@ This repository provides a step-by-step guide on how to integrate `pyxll`, `rdki
 - [Setting Up the Environment](#setting-up-the-environment)
 - [Creating Enviorment from YML file](#Creating-Enviorment-from-YML-file)
 - [Configuration](#Configuration)
-- [License](#license) : Needs PyXLL Commercial license. [PyXLL](https://www.pyxll.com/).
+- [License](#license) : Needs PyXLL Commercial license. Reach out to [PyXLL](https://www.pyxll.com/).
 
 ## Requirements:
 
