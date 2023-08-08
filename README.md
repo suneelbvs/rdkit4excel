@@ -88,7 +88,7 @@ Once both the PyXLL Excel add-in and the PyXLL-Jupyter package are installed sta
 
 - conda activate rdkit_env
 
-### Configuration:
+### 3. Configuration:
 
 - The pyxll.cfg configuration file. You can locate this typically in *C:\Users\username\AppData\Local\Programs\PyXLL*
 
