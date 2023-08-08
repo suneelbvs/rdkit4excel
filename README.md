@@ -1,6 +1,10 @@
 # rdkit4excel
 # Pyxll, RDKit, and Jupyter-Pyxll Integration Guide
 
+Existing Excel add-ons for RDKit typically utilize VBA and Macros. For example [rdkit4excel](https://github.com/janholstjensen/rdkit4excel)
+
+If you're looking for VBA & Macro's free add-on?. This is for you!
+
 This repository provides a step-by-step guide on how to integrate `pyxll`, `rdkit`, and `jupyter-pyxll` for a seamless Python and Excel experience, especially for cheminformatics tasks.
 
 ## About Pyxll:
