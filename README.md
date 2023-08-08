@@ -80,7 +80,7 @@ The pyxll-jupyter package is installed using pip:
 > pip install pyxll-jupyter
 Once both the PyXLL Excel add-in and the PyXLL-Jupyter package are installed start Excel and you will see a new “Jupyter” button in the PyXLL tab.
 
-### Creating Enviorment from YML file:
+### 3. Creating Enviorment from YML file:
 
 - [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system.
 
@@ -88,7 +88,7 @@ Once both the PyXLL Excel add-in and the PyXLL-Jupyter package are installed sta
 
 - conda activate rdkit_env
 
-### 3. Configuration:
+### 4. Configuration
 
 - The pyxll.cfg configuration file. You can locate this typically in *C:\Users\username\AppData\Local\Programs\PyXLL*
 
