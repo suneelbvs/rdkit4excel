@@ -13,7 +13,7 @@ This repository provides a step-by-step guide on how to integrate `pyxll`, `rdki
 ## Table of Contents
 
 - [Requirements](#Requirements)
-- [Setting Up the Environment](#setting-up-the-environment)
+- [Create a New Anaconda Environment](#setting-up-the-environment)
 - [Creating Enviorment from YML file](#Creating-Enviorment-from-YML-file)
 - [Configuration](#Configuration)
 - [License](#license) : Needs PyXLL Commercial license. Reach out to [PyXLL](https://www.pyxll.com/).
@@ -80,7 +80,7 @@ The pyxll-jupyter package is installed using pip:
 > pip install pyxll-jupyter
 Once both the PyXLL Excel add-in and the PyXLL-Jupyter package are installed start Excel and you will see a new “Jupyter” button in the PyXLL tab.
 
-## 3. Creating Enviorment from YML file:
+### 3. Creating Enviorment from YML file
 
 - [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system.
 
@@ -88,7 +88,7 @@ Once both the PyXLL Excel add-in and the PyXLL-Jupyter package are installed sta
 
 - conda activate rdkit_env
 
-## 4. Configuration
+### 4. Configuration
 
 - The pyxll.cfg configuration file. You can locate this typically in *C:\Users\username\AppData\Local\Programs\PyXLL*
 
